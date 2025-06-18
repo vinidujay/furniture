@@ -1,0 +1,7 @@
+node_modules/
+npm-debug.log
+dist/
+build/
+.env
+adept-storm-461506-i2-b92c1f6b45be.json
+.DS_Store
